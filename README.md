@@ -16,8 +16,8 @@ I’m an independent developer who enjoys turning frustrating, repetitive tasks 
 
 ```text
 Based in        France
-Currently       Building Klaimz
-Interested in   Browser extensions · automation · product design
+Currently       Building Klaimz and some other projects..
+Interested in   Browser extensions · automation · product design · building softwares and websites
 Open to         Collaborations · ambitious ideas · useful open source
 ```
 
